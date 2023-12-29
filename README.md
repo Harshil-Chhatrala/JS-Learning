@@ -1,3 +1,7 @@
 # JS-Learning
+
 My JS learning journey
-We are going to start pertty soon
+<br>
+We are going to start preety soon
+
+AUTHOR: Harshil Chhatrala
